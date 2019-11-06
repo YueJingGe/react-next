@@ -1,0 +1,50 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--6-1!node_modules/sass-loader/lib/loader.js??ref--6-2!src/pages/index.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css node_modules/css-loader/index.js??ref--6-1!node_modules/sass-loader/lib/loader.js??ref--6-2!src/pages/index.scss 0": 0,
+      "css node_modules/css-loader/index.js??ref--6-1!node_modules/sass-loader/lib/loader.js??ref--6-2!src/pages/index.scss 1": 1
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\-q-MKYp3LzXDV-o6kWSgh\\pages\\_app.js": 3,
+      "static\\-q-MKYp3LzXDV-o6kWSgh\\pages\\_error.js": 4,
+      "static\\-q-MKYp3LzXDV-o6kWSgh\\pages\\index.js": 5,
+      "styles": 6
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  }
+}
